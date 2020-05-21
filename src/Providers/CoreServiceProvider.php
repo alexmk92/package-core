@@ -1,6 +1,6 @@
 <?php
 
-namespace AlexMK92\StockService\Providers;
+namespace AlexMK92\CoreService\Providers;
 
 use AlexMK92\StockService\Http\StockServiceController;
 use Illuminate\Support\ServiceProvider;
